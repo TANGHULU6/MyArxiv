@@ -1,4 +1,4 @@
-site_title = "MyArxiv"
+site_title = "MyArxiv-focusing on llm, vla, vln, ai"
 limit_days = 7
 cache_url = "https://tanghulu6.github.io/MyArxiv/cache.json"
 

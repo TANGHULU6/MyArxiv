@@ -27,6 +27,63 @@ limit = 150
 category = "cs.MM"
 title = "Multimedia"
 
+[[sources]]
+limit = 200
+category = "cs.LG"
+title = "Machine Learning (core)"
+
+[[sources]]
+limit = 200
+category = "cs.CV"
+title = "Computer Vision / World Models / Diffusion"
+
+[[sources]]
+limit = 150
+category = "cs.RO"
+title = "Robotics / Isaac Sim / Manipulation"
+
+[[sources]]
+limit = 120
+category = "cs.AI"
+title = "AI (Planning · Reasoning · Agents)"
+
+[[sources]]
+limit = 120
+category = "cs.MA"
+title = "Multiagent Systems (MARL / Agents)"
+
+[[sources]]
+limit = 120
+category = "cs.SI"
+title = "Social & Information Networks (Mobility/Spatiotemporal)"
+
+[[sources]]
+limit = 120
+category = "stat.ML"
+title = "Statistics · ML (theory/practice)"
+
+# ===== 关联方向（IR/推荐、多模态/视频）=====
+[[sources]]
+limit = 120
+category = "cs.IR"
+title = "Information Retrieval / RecSys"
+
+[[sources]]
+limit = 120
+category = "cs.MM"
+title = "Multimedia (Multi-modal / Video)"
+
+[[sources]]
+limit = 100
+category = "eess.IV"
+title = "Image & Video Processing (Perception)"
+
+# ===== 仍然保留 NLP =====
+[[sources]]
+limit = 100
+category = "cs.CL"
+title = "Computation and Language (LLM & Agents)"
+
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"

@@ -3,9 +3,19 @@ limit_days = 90
 cache_url = "https://tanghulu6.github.io/MyArxiv/cache.json"
 
 [[sources]]
-limit = 200
-category = "cs.LG"
-title = "Machine Learning"
+limit = 300
+category = "cs.RO"
+title = "Robotics"
+
+[[sources]]
+limit = 150
+category = "cs.CV"
+title = "Computer Vision and Pattern Recognition"
+
+[[sources]]
+limit = 150
+category = "cs.AI"
+title = "Artificial Intelligence"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"

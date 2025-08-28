@@ -17,6 +17,64 @@ limit = 150
 category = "cs.AI"
 title = "Artificial Intelligence"
 
+# —— 你的主线方向（Mobility / World Models / Robotics / IR）——
+[[sources]]
+limit = 200
+category = "cs.LG"
+title = "Machine Learning"
+
+[[sources]]
+limit = 200
+category = "cs.CV"
+title = "Computer Vision and Pattern Recognition"
+
+[[sources]]
+limit = 160
+category = "cs.RO"
+title = "Robotics"
+
+[[sources]]
+limit = 140
+category = "cs.AI"
+title = "Artificial Intelligence"
+
+[[sources]]
+limit = 140
+category = "cs.MA"
+title = "Multiagent Systems"
+
+[[sources]]
+limit = 140
+category = "cs.SI"
+title = "Social and Information Networks"
+
+[[sources]]
+limit = 140
+category = "stat.ML"
+title = "Machine Learning (Statistics)"
+
+# —— 关联方向（IR/RecSys，多模态/视频/信号）——
+[[sources]]
+limit = 150
+category = "cs.IR"
+title = "Information Retrieval"
+
+[[sources]]
+limit = 140
+category = "cs.MM"
+title = "Multimedia"
+
+[[sources]]
+limit = 120
+category = "eess.IV"
+title = "Image and Video Processing"
+
+# —— 仍然保留 NLP（用于 LLM/Agents 相关）——
+[[sources]]
+limit = 150
+category = "cs.CL"
+title = "Computation and Language"
+
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"

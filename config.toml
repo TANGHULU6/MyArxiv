@@ -1,5 +1,5 @@
 site_title = "MyArxiv"
-limit_days = 7
+limit_days = 90
 cache_url = "https://tanghulu6.github.io/MyArxiv/cache.json"
 
 # —— 你的主线方向（Mobility / World Models / Robotics / IR）——
